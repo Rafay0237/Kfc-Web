@@ -32,7 +32,7 @@ const OrderFile = ({Order,setCounter,counter,setCartItems,CartItems,setOrder,tot
     setQuantity(1);
 
     Swal.fire({
-      position: 'mid',
+      position: 'center',
       icon: 'success',
       title: 'Item Added To Cart',
       showConfirmButton: false,

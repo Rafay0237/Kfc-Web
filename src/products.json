@@ -453,7 +453,7 @@
         "title":"Midnight Deal 1",
         "price":470,
         "description":"1 Zinger burger + 1 regular drink",
-        "image":"",
+        "image":"https://www.kfcpakistan.com/images/43a95f10-ffaa-11ed-b673-4121381f04c6-Midnight-Deal-1-2023-05-31115706.png",
         "categoryId":6
     },
     {
@@ -461,7 +461,7 @@
         "title":"Midnight Deal 2",
         "price":570,
         "description":"2 Krunch burgers + 2 regular drinks",
-        "image":"",
+        "image":"https://www.kfcpakistan.com/images/43a9fb50-ffaa-11ed-8180-812e571998fe-Mightnight-2-2023-05-31115706.png",
         "categoryId":6
     },
     {
@@ -469,7 +469,7 @@
         "title":"Midnight Deal 3",
         "price":660,
         "description":"Mighty Zinger + regular drink",
-        "image":"",
+        "image":"https://www.kfcpakistan.com/images/43a95f10-ffaa-11ed-b673-4121381f04c6-midnight-deal-3-2023-05-31115706.png",
         "categoryId":6
     }
     

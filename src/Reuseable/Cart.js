@@ -39,7 +39,7 @@ const Cart = ({CartItems,setCartItems,counter,setCounter,totalAmount,setTotalAmo
   }
   const increment=(item)=>{
     setTotalAmount(totalAmount+item.price)
-    console.log(totalAmount)
+    
     setCartItems( CartItems.map(index=>{
       if(index.id===item.id )
       {
@@ -83,7 +83,7 @@ const Cart = ({CartItems,setCartItems,counter,setCounter,totalAmount,setTotalAmo
           ></button>
         </div>
         <div className="offcanvas-body" style={{color:"white"}}>
-          {CartItems!==[] &&totalAmount!==0?
+          {totalAmount!==0?
            <>
         <div className="container cart-container" >
          {CartItems.map(item=>(

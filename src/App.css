@@ -98,12 +98,13 @@ font-size: small;
   pointer-events:none;
 } */
 @media screen and (max-width: 600px) {
-  #category-header{
+   #category-header{
     margin:20px 30px;
   } 
    .P-List-row{
-    margin-left: 40px;
-  }
+    width: 90%;
+  } 
+
   .cart-quantity {
     margin-left: 100px;
     width: 40%;

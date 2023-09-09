@@ -32,7 +32,6 @@ const Header = ({counter}) => {
          Cart ({counter}) </button>
 
 
-
             {/* <form className="d-flex" role="search">
               <input
                 className="form-control me-2"
